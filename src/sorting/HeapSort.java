@@ -20,8 +20,6 @@ public class HeapSort {
 		// sorting the array
 		for(int i=0;i < heapifiedArray.length;i++) {
 			swap(0, heapifiedArray.length-i+1);
-
-			
 		}
 
 	}
